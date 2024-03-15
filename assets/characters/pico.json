@@ -1,121 +1,121 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				370,
+				700
 			],
+			"indices": [],
 			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Pico Idle Dance"
+			"loop": false,
+			"name": "chefpp door idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				65,
-				9
+				370,
+				700
 			],
-			"fps": 24,
-			"anim": "singLEFT",
 			"indices": [],
-			"name": "Pico Note Right0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-68,
-				-7
-			],
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Pico NOTE LEFT0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-60,
-				41
-			],
 			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "Pico NOTE LEFT miss"
+			"loop": false,
+			"name": "chefpp door right"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				62,
-				64
+				370,
+				700
 			],
-			"fps": 24,
-			"anim": "singLEFTmiss",
 			"indices": [],
-			"name": "Pico Note Right Miss"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-29,
-				27
-			],
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "pico Up note0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				200,
-				-70
-			],
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "Pico Down Note0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				210,
-				-28
-			],
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "Pico Down Note MISS"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-19,
-				67
-			],
 			"fps": 24,
 			"anim": "singUPmiss",
+			"loop": false,
+			"name": "chefpp door up"
+		},
+		{
+			"offsets": [
+				370,
+				700
+			],
 			"indices": [],
-			"name": "pico Up note miss"
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "chefpp door down"
+		},
+		{
+			"offsets": [
+				370,
+				700
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "chefpp door left"
+		},
+		{
+			"offsets": [
+				370,
+				700
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "chefpp door right"
+		},
+		{
+			"offsets": [
+				370,
+				700
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "chefpp door left"
+		},
+		{
+			"offsets": [
+				370,
+				700
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "chefpp door down"
+		},
+		{
+			"offsets": [
+				370,
+				700
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "chefpp door up"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/Pico_FNF_assetss",
 	"position": [
 		0,
-		300
+		350
 	],
-	"healthicon": "pico",
+	"healthicon": "dad",
 	"flip_x": true,
 	"healthbar_colors": [
-		183,
-		216,
-		85
+		193,
+		186,
+		106
 	],
 	"camera_position": [
-		0,
-		0
+		510,
+		-640
 	],
 	"sing_duration": 4,
 	"scale": 1

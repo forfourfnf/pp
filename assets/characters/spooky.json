@@ -3,106 +3,75 @@
 		{
 			"loop": false,
 			"offsets": [
-				59,
-				-20
+				0,
+				-5
 			],
-			"anim": "hey",
+			"anim": "idle",
 			"fps": 24,
-			"name": "spooky kids YEAH!!",
+			"name": "chefpp sweat idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				130,
-				-10
+				0,
+				-5
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "note sing left",
+			"name": "chefpp sweat left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-130,
-				-14
+				0,
+				-5
 			],
-			"anim": "singRIGHT",
+			"anim": "singUP",
 			"fps": 24,
-			"name": "spooky sing right",
+			"name": "chefpp sweat up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-50,
-				-130
+				0,
+				-5
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "spooky DOWN note",
+			"name": "chefpp sweat down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
 				0,
-				0
+				-5
 			],
-			"fps": 12,
-			"anim": "danceLeft",
-			"indices": [
-				0,
-				2,
-				6
-			],
-			"name": "spooky dance idle"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"fps": 12,
-			"anim": "danceRight",
-			"indices": [
-				8,
-				10,
-				12,
-				14
-			],
-			"name": "spooky dance idle"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-20,
-				26
-			],
+			"anim": "singRIGHT",
 			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "spooky UP NOTE"
+			"name": "chefpp sweat right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/spooky_kids_assets",
 	"position": [
-		0,
-		200
+		-100,
+		150
 	],
-	"healthicon": "spooky",
+	"healthicon": "dad",
 	"flip_x": false,
 	"healthbar_colors": [
-		213,
-		126,
-		0
+		193,
+		186,
+		106
 	],
 	"camera_position": [
-		0,
-		0
+		-150,
+		20
 	],
 	"sing_duration": 4,
 	"scale": 1
