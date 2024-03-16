@@ -1,7 +1,7 @@
 {
 	"song": {
-		"player1": "bf-pixel",
-		"player2": "pico",
+		"player1": "pico",
+		"player2": "bf-pixel",
 		"events": [],
 		"notes": [
 			{
@@ -5830,9 +5830,39 @@
 				"bpm": 180,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 180,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 180,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 180,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
 			}
 		],
-		"gfVersion": "gf",
+		"gfVersion": "gf-car",
 		"player3": "gf",
 		"splashSkin": "noteSplashes",
 		"song": "Spookeez",
