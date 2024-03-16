@@ -11,3 +11,9 @@ Fresh - Bon Appetit
 Dad Battle - Cooking Fast
 
 Spookeez - Thomas
+
+# Difficulty Change
+
+Normal - Normal Charting
+
+Hard - 3.0 Speed

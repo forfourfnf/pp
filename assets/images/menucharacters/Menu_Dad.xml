@@ -1,19 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Menu_Dad.png">
-	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+<TextureAtlas imagePath="Menu_ChefPp.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="M Dad Idle0000" x="4" y="4" width="206" height="364" pivotX="0" pivotY="3.8" frameX="0" frameY="-3" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0001" x="4" y="4" width="206" height="364" frameX="0" frameY="-3" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0002" x="210" y="4" width="205" height="364" frameX="0" frameY="-3" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0003" x="210" y="4" width="205" height="364" frameX="0" frameY="-3" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0004" x="415" y="4" width="204" height="364" frameX="-1" frameY="-3" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0005" x="415" y="4" width="204" height="364" frameX="-1" frameY="-3" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0006" x="619" y="4" width="202" height="367" frameX="-2" frameY="0" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0007" x="619" y="4" width="202" height="367" frameX="-2" frameY="0" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0008" x="4" y="371" width="202" height="367" frameX="-2" frameY="0" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0009" x="4" y="371" width="202" height="367" frameX="-2" frameY="0" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0010" x="206" y="371" width="202" height="367" frameX="-2" frameY="0" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0011" x="206" y="371" width="202" height="367" frameX="-2" frameY="0" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0012" x="206" y="371" width="202" height="367" frameX="-2" frameY="0" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0013" x="206" y="371" width="202" height="367" frameX="-2" frameY="0" frameWidth="206" frameHeight="367"/>
+	<SubTexture name="chefpp idle GOLD instance 10000" x="0" y="0" width="665" height="612"/>
+	<SubTexture name="chefpp idle GOLD instance 10001" x="665" y="0" width="665" height="612"/>
+	<SubTexture name="chefpp idle GOLD instance 10002" x="1330" y="0" width="665" height="612"/>
+	<SubTexture name="chefpp idle GOLD instance 10003" x="1995" y="0" width="665" height="612"/>
+	<SubTexture name="chefpp idle GOLD instance 10004" x="2660" y="0" width="665" height="612"/>
+	<SubTexture name="chefpp idle GOLD instance 10005" x="3325" y="0" width="665" height="612"/>
+	<SubTexture name="chefpp idle GOLD instance 10006" x="3325" y="0" width="665" height="612"/>
+	<SubTexture name="chefpp idle GOLD instance 10007" x="0" y="612" width="665" height="612"/>
+	<SubTexture name="chefpp idle GOLD instance 10008" x="665" y="612" width="665" height="612"/>
+	<SubTexture name="chefpp idle GOLD instance 10009" x="1330" y="612" width="665" height="612"/>
+	<SubTexture name="chefpp idle GOLD instance 10010" x="1995" y="612" width="665" height="612"/>
+	<SubTexture name="chefpp idle GOLD instance 10011" x="1995" y="612" width="665" height="612"/>
+	<SubTexture name="chefpp idle GOLD instance 10012" x="1995" y="612" width="665" height="612"/>
+	<SubTexture name="chefpp idle GOLD instance 10013" x="1995" y="612" width="665" height="612"/>
+	<SubTexture name="chefpp idle GOLD instance 10014" x="1995" y="612" width="665" height="612"/>
+	<SubTexture name="chefpp idle GOLD instance 10015" x="1995" y="612" width="665" height="612"/>
+	<SubTexture name="chefpp idle GOLD instance 10016" x="1995" y="612" width="665" height="612"/>
+	<SubTexture name="chefpp idle GOLD instance 10017" x="1995" y="612" width="665" height="612"/>
+	<SubTexture name="chefpp idle GOLD instance 10018" x="1995" y="612" width="665" height="612"/>
+	<SubTexture name="chefpp idle GOLD instance 10019" x="1995" y="612" width="665" height="612"/>
 </TextureAtlas>

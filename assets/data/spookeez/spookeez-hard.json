@@ -5840,7 +5840,7 @@
 		"validScore": true,
 		"arrowSkin": "",
 		"needsVoices": true,
-		"speed": 2.5,
+		"speed": 3,
 		"bpm": 180
 	}
 }

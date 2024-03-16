@@ -1,10 +1,10 @@
 {
-	"idle_anim": "M Spooky Kids Idle",
+	"idle_anim": "Jr Idle GOLD",
 	"image": "Menu_Spooky_Kids",
 	"position": [
-		0,
-		-80
+		340,
+		330
 	],
-	"scale": 1,
+	"scale": 0.5,
 	"confirm_anim": "M Dad Idle"
 }

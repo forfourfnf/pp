@@ -3526,7 +3526,7 @@
 		"stage": "stage",
 		"needsVoices": true,
 		"validScore": true,
-		"speed": 2,
+		"speed": 3,
 		"bpm": 150
 	}
 }

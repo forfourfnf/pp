@@ -1,10 +1,10 @@
 {
-	"idle_anim": "M Mom Idle",
-	"image": "Menu_Mom",
+	"confirm_anim": "chefpp door idle",
+	"idle_anim": "chefpp door idle",
 	"position": [
-		0,
-		10
+		490,
+		390
 	],
-	"scale": 1,
-	"confirm_anim": "M Dad Idle"
+	"scale": 0.35,
+	"image": "Menu_Mom"
 }

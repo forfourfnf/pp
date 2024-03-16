@@ -1,153 +1,209 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				-9,
-				10
-			],
 			"loop": false,
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Dad Sing Note LEFT",
-			"indices": []
-		},
-		{
 			"offsets": [
-				0,
-				-30
-			],
-			"loop": false,
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Dad Sing Note DOWN",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-6,
-				50
-			],
-			"loop": false,
-			"anim": "singUP",
-			"fps": 24,
-			"name": "Dad Sing Note UP",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				27
-			],
-			"loop": false,
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Dad Sing Note RIGHT",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
+				3,
 				0
 			],
-			"loop": true,
 			"fps": 24,
-			"anim": "idle-loop",
+			"anim": "cheer",
+			"indices": [],
+			"name": "GF Cheer"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-19
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GF left note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF Down Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				4
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF Up Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF Right Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-21
+			],
+			"fps": 24,
+			"anim": "sad",
 			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "gf sad"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
 				10,
 				11,
 				12,
-				12
-			],
-			"name": "Dad idle dance"
-		},
-		{
-			"offsets": [
-				-9,
-				10
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singLEFT-loop",
-			"indices": [
-				12,
 				13,
-				14,
-				15
+				14
 			],
-			"name": "Dad Sing Note LEFT"
+			"name": "GF Dancing Beat"
 		},
 		{
+			"loop": false,
 			"offsets": [
-				631,
-				7
+				0,
+				-9
 			],
-			"loop": true,
 			"fps": 24,
-			"anim": "singRIGHT-loop",
+			"anim": "danceRight",
 			"indices": [
 				15,
 				16,
 				17,
-				18
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
 			],
-			"name": "Dad Sing Note RIGHT"
+			"name": "GF Dancing Beat"
 		},
 		{
-			"offsets": [
-				-6,
-				50
-			],
 			"loop": true,
-			"fps": 24,
-			"anim": "singUP-loop",
-			"indices": [
-				56,
-				57,
-				58,
-				59
-			],
-			"name": "Dad Sing Note UP"
-		},
-		{
-			"loop": false,
 			"offsets": [
-				140,
-				-100
+				45,
+				-8
 			],
-			"anim": "hey",
 			"fps": 24,
-			"name": "WhatYouKnowAboutRollingDownInTheDeep",
-			"indices": []
+			"anim": "hairBlow",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "GF Dancing Beat Hair blowing"
 		},
 		{
 			"loop": false,
 			"offsets": [
 				0,
-				0
+				-9
 			],
-			"anim": "idle",
 			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"anim": "hairFall",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "GF Dancing Beat Hair Landing"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				-17
+			],
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "GF FEAR"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/GF_assets",
 	"position": [
-		-1110,
-		350
+		0,
+		0
 	],
-	"healthicon": "dad",
+	"healthicon": "gf",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		165,
+		0,
+		77
 	],
 	"camera_position": [
-		-170,
-		-210
+		0,
+		0
 	],
-	"sing_duration": 6.1,
+	"sing_duration": 4,
 	"scale": 1
 }
